@@ -9,10 +9,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><h2 id="example-page-about-deloitte">Example page about Deloitte</h2>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+  <div class="stackedit__html"><h2 id="updated-example-page-about-deloitte-right-here.">Updated example page about Deloitte right here.</h2>
 </div>
 </body>
 
